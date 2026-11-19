@@ -16,3 +16,6 @@ solutions to seven Python programming questions.
 - Iterators and exception handling
 - Palindrome checking
 - Finding the second largest number
+## Update
+All seven Python exercises have been completed
+and tested successfully in Google Colab.
